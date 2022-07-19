@@ -55,7 +55,6 @@ class _ScreeningTabState extends State<ScreeningTab> {
                   hint: "Text Search",
                   kry: TextInputType.text,
                 ),
-                
                 CustomDropdownButton2(
                   buttonHeight: 34,
                   buttonWidth: MediaQuery.of(context).size.width * 0.18,
